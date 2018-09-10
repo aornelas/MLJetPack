@@ -15,6 +15,7 @@ The MLJetPack repository is structured as follows:
   * **Packages/** - Unreal Packages for distribution.
   * **Projects/** - Unreal projects that showcase the tools and server as samples and starting points for other projects.
   * **Tools/** - Unreal developer tools for Magic Leap creators.
+* **mpks/** - Built Magic Leap apps ready to install!
 
 ## Logo Credit
 MLJetPack logo created by [Alexandria Heston](https://twitter.com/ali_heston)
