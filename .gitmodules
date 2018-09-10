@@ -1,0 +1,3 @@
+[submodule "Unity/Projects/magic-bubbles"]
+	path = Unity/Projects/magic-bubbles
+	url = https://github.com/aornelas/magic-bubbles.git
