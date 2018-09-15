@@ -15,15 +15,12 @@ EditorBuildSettings:
     path: Assets/Core/Examples/MLJetPack_Gestures/MLJetPack_Gestures.unity
     guid: 05b2226cb38994b6f8f050814b21199d
   - enabled: 1
-    path: Assets/MagicLeap/Examples/Scenes/Controller.unity
-    guid: 62a07dca92e019646a2932bacb6d4387
+    path: Assets/Core/MagicLeap/Scenes/JetPackController.unity
+    guid: a6060c8f6e082475abd329906dfa4b05
   - enabled: 1
-    path: Assets/MagicLeap/Examples/Scenes/HandTracking.unity
-    guid: c027f118f9ccd4979b8795eb3900db70
+    path: Assets/Core/MagicLeap/Scenes/JetPackHandTracking.unity
+    guid: 42dec67521fc942a19d7a196d5e54066
   - enabled: 1
-    path: Assets/MagicLeap/Examples/Scenes/MCA.unity
-    guid: ccb836e31dba83841bb2120712b3741a
-  - enabled: 1
-    path: Assets/MagicLeap/Examples/Scenes/Planes.unity
-    guid: 5fca2d94f0384ff42b981955c16012ef
+    path: Assets/Core/MagicLeap/Scenes/JetPackPlanes.unity
+    guid: bee4d082c350f47b798f59dca0a58c27
   m_configObjects: {}
