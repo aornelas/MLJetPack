@@ -34,3 +34,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Unity/MLJetPackTools/Assets/MagicLeap
+Unity/MLJetPackTools/Library
+Unity/MLJetPackTools/obj
+Unity/MLJetPackTools/Temp
